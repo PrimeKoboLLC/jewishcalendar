@@ -1,0 +1,32 @@
+{
+  "name": "jewishcalendar",
+  "version": "1.0.0",
+  "description": "Convert Gregorian calendar to Jewish calendar. Mainly forcusing on Judaism and Christianities.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PrimeKoboLLC/jewishcalendar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PrimeKoboLLC/jewishcalendar/issues"
+  },
+  "scripts": {
+    "test": "echo \"Sorry, but no test specification is provided\""
+  },
+  "keywords": [
+    "Jewish",
+    "Christianity",
+    "calendar",
+    "converter",
+    "solar calendar",
+    "lunisolar calendar"
+  ],
+  "author": "Masaru Kitajima <thirstytraveler@mac.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
